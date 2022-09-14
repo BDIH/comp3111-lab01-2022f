@@ -2,4 +2,4 @@ Name:Joe
 
 ID:77985461
 
-![](C:\Users\s2015\COMP3111\Lab01\image.png)
+![](https://github.com/BDIH/comp3111-lab01-2022f/blob/master/image.png)
